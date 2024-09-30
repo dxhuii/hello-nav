@@ -299,6 +299,13 @@ export default <AppItem[]>[
     name: 'Lodash',
   },
   {
+    homepage: 'https://radash-docs.vercel.app/',
+    repository: 'https://github.com/sodiray/radash',
+    icon: 'radash.png',
+    keywords: ['radash'],
+    name: 'Radash',
+  },
+  {
     homepage: 'https://vueuse.org/',
     repository: 'https://github.com/vueuse/vueuse',
     icon: 'vueuse.png',
@@ -383,6 +390,13 @@ export default <AppItem[]>[
     keywords: ['axios'],
     name: 'Axios',
     darkInvert: true,
+  },
+  {
+    homepage: 'https://github.com/sindresorhus/ky',
+    repository: 'https://github.com/sindresorhus/ky',
+    icon: 'ky.png',
+    keywords: ['ky'],
+    name: 'Ky',
   },
   {
     homepage: 'https://swr.vercel.app/',
@@ -576,6 +590,14 @@ export default <AppItem[]>[
     icon: 'prisma.png',
     keywords: ['prisma', 'orm'],
     name: 'Prisma',
+    darkInvert: true,
+  },
+  {
+    homepage: 'https://orm.drizzle.team/',
+    repository: 'https://github.com/drizzle-team/drizzle-orm',
+    icon: 'drizzle.png',
+    keywords: ['drizzle', 'orm'],
+    name: 'Drizzle',
     darkInvert: true,
   },
   {
